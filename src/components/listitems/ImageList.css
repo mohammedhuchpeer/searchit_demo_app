@@ -1,0 +1,10 @@
+.pages {
+  position: relative;
+  margin-left: 180px;
+  top: 400px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0px;
+  max-width: 1000px;
+  width: 100%;
+}

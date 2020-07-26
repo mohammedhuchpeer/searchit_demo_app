@@ -1,0 +1,23 @@
+.bottom_box {
+  display: flex;
+  float: right;
+  width: 100%;
+  height: 150px;
+  position: relative;
+  top: 600px;
+  padding-top: 50px;
+  background-color: rgb(37, 35, 35);
+}
+
+ul {
+  margin: 0;
+  list-style: none;
+  padding-left: 100px;
+  float: left;
+}
+
+li {
+  font-size: 10px;
+  color: orange;
+  padding: 1px;
+}
