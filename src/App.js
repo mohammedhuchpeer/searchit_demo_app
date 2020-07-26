@@ -14,7 +14,7 @@ class App extends Component {
   state = {
     photos: [],
     totalPhotos: 0,
-    perPage: 5,
+    perPage: 9,
     currentPage: 1,
     loadState: LOAD_STATE.LOADING
   };
